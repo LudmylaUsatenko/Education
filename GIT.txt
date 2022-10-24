@@ -1,8 +1,10 @@
 sfift + insert - вставить что-то в командную строку
 
+Старт проекта:
 git init - инициализация приложения (гит за тобой следит)
 git remote add origin https://github.com/LudmylaUsatenko/fitness.git - инициализация репозитория
 
+Добавление изменений:
 git add . - добавляет все изменения
 git add index.html - добавляется только файл index.html
 git commit -m "text commit" - делается комит с комментарием
@@ -10,4 +12,5 @@ git push origin master - пушит все коммиты и их можно увидеть на github
 
 cls - очистить все
 
+git pull - обновление локального файла до последней версии гита
 git branch - показывает все ветки

@@ -10,7 +10,3 @@ Track:
 - google maps
 - scrollTOp
 - archor links header
-
--карта 
--скрол при нажатии на меня 
--скрол при нажатии на меню в бургере
